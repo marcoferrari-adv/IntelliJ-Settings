@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="actions.dtd" />
+    <ignored-resource url="standardX26.dtd" />
+  </component>
+</application>

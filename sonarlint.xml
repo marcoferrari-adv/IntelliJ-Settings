@@ -1,0 +1,72 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S101">
+          <value>
+            <Rule key="java:S101">
+              <params>
+                <param key="format" value="^[A-Z][a-zA-Z0-9_]*$" />
+              </params>
+            </Rule>
+          </value>
+        </entry>
+        <entry key="java:S107">
+          <value>
+            <Rule key="java:S107">
+              <params>
+                <param key="constructorMax" value="12" />
+                <param key="max" value="12" />
+              </params>
+            </Rule>
+          </value>
+        </entry>
+        <entry key="java:S110">
+          <value>
+            <Rule active="false" key="java:S110" />
+          </value>
+        </entry>
+        <entry key="java:S1192">
+          <value>
+            <Rule active="false" key="java:S1192" />
+          </value>
+        </entry>
+        <entry key="java:S3252">
+          <value>
+            <Rule active="false" key="java:S3252" />
+          </value>
+        </entry>
+        <entry key="java:S3776">
+          <value>
+            <Rule active="false" key="java:S3776">
+              <params>
+                <param key="Threshold" value="30" />
+              </params>
+            </Rule>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <rules>
+      <Rule active="false" key="java:S110" />
+      <Rule key="java:S101">
+        <params>
+          <param key="format" value="^[A-Z][a-zA-Z0-9_]*$" />
+        </params>
+      </Rule>
+      <Rule active="false" key="java:S3252" />
+      <Rule key="java:S107">
+        <params>
+          <param key="constructorMax" value="12" />
+          <param key="max" value="12" />
+        </params>
+      </Rule>
+      <Rule active="false" key="java:S1192" />
+      <Rule active="false" key="java:S3776">
+        <params>
+          <param key="Threshold" value="30" />
+        </params>
+      </Rule>
+    </rules>
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<filetype binary="false" default_extension="jsp" description="JSP (syntax highlighting only)" name="JSP">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="&lt;%--" />
+      <option name="COMMENT_END" value="--%&gt;" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="include;page;taglib" ignore_case="false" />
+    <keywords2 keywords="c:choose;c:if;c:otherwise;c:set;c:url;c:when;fmt:message;fmt:setBundle;fmt:setLocale;s:eval;s:message;sec:authorize" />
+    <keywords3 keywords="alert;boolean;case;char;confirm;console;continue;do;else;false;for;forms;function;if;length;let;return;this;thows;true;var;while;with" />
+    <keywords4 />
+  </highlighting>
+</filetype>

@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="wnclogger" value="private static final Logger LOGGER = LogR.getLogger($CLASSNAME$.class.getName());" description="Add log4j logger for wnc" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
