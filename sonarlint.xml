@@ -11,6 +11,11 @@
             </Rule>
           </value>
         </entry>
+        <entry key="java:S106">
+          <value>
+            <Rule active="false" key="java:S106" />
+          </value>
+        </entry>
         <entry key="java:S107">
           <value>
             <Rule key="java:S107">
@@ -61,6 +66,7 @@
           <param key="max" value="12" />
         </params>
       </Rule>
+      <Rule active="false" key="java:S106" />
       <Rule active="false" key="java:S1192" />
       <Rule active="false" key="java:S3776">
         <params>
