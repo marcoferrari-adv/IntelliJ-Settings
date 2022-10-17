@@ -5,7 +5,7 @@ Table of contents
 
 <!--ts-->
 * [Installation](#installation)
-* [Setup]
+* [Setup](#setup)
 
 <!--te-->
 
