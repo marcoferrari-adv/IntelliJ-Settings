@@ -1,3 +1,7 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="oracle.19">
+      <artifact id="Oracle" name="Oracle" use="true" version="21.5.0.0" />
+    </driver>
+  </component>
 </application>
