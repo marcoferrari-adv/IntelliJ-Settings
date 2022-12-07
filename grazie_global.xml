@@ -6,5 +6,10 @@
         <option value="Italian" />
       </set>
     </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="LanguageTool.IT.ST_04_002" />
+      </set>
+    </option>
   </component>
 </application>
