@@ -1,0 +1,18 @@
+<filetype binary="false" default_extension="xconf" description="Windchill Xconf" name="Windchill Xconf">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="&lt;!--" />
+      <option name="COMMENT_END" value="--&gt;" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords ignore_case="false" />
+    <keywords2 />
+    <keywords3 />
+    <keywords4 />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="xconf" />
+  </extensionMap>
+</filetype>
