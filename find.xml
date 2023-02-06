@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…\src [ThingworxExtensionPlugin]'" />
-    <option name="defaultScopeName" value="Directory '…\src [ThingworxExtensionPlugin]'" />
-    <option name="SEARCH_SCOPE" value="Directory '…\src [ThingworxExtensionPlugin]'" />
+    <option name="customScope" value="File '…\src\ext\vimar\part\commands\ImportBomCommands.java'" />
+    <option name="defaultScopeName" value="File '…\src\ext\vimar\part\commands\ImportBomCommands.java'" />
+    <option name="SEARCH_SCOPE" value="File '…\src\ext\vimar\part\commands\ImportBomCommands.java'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
