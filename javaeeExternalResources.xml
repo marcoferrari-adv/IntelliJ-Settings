@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="EventListeners.dtd" location="$USER_HOME$/intellij-workspace/Elettric80/codebase/ext/elttric80/services/EventListeners.dtd" />
     <resource url="http://www.w3.org/1999/XSL/Format" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/741852a8_Format.xml" />
   </component>
 </application>
