@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\src\ext\elettric80\coding\DocumentRule.java'" />
+    <option name="defaultScopeName" value="File '…\src\ext\elettric80\coding\DocumentRule.java'" />
+    <option name="SEARCH_SCOPE" value="File '…\src\ext\elettric80\coding\DocumentRule.java'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
