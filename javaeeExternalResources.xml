@@ -1,10 +1,13 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="EventListeners.dtd" location="$USER_HOME$/intellij-workspace/Elettric80/codebase/ext/elttric80/services/EventListeners.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-2.5.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2023.1/extResources/6e8f9e13_spring-beans-2.5.xsd" />
     <resource url="http://www.w3.org/1999/XSL/Format" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/741852a8_Format.xml" />
     <ignored-resource url="/wt/load/windchillLoad.dtd" />
     <ignored-resource url="customActionmodels.dtd" />
     <ignored-resource url="customActions.dtd" />
+    <ignored-resource url="http://www.ptc.com/schema/mvc/mvc-10.0.xsd" />
+    <ignored-resource url="http://www.springframework.org/schema/beans/spring-beans-2.5.xsd" />
     <ignored-resource url="standard12_1.dtd" />
     <ignored-resource url="standardX20.dtd" />
   </component>
