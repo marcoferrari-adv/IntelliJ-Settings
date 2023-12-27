@@ -4,7 +4,6 @@
       <map>
         <entry key="editor.distraction.free.margin" value="0" />
         <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
-        <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
   </component>
