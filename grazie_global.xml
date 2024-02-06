@@ -15,8 +15,9 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="a seguito" />
             <option value="dummy" />
+            <option value="a seguito" />
+            <option value="of unit of|no link found with the same unit, this should cover the case of unit of measurement change" />
           </set>
         </option>
       </SuppressingContext>
