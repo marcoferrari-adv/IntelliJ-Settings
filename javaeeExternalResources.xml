@@ -10,6 +10,7 @@
     <ignored-resource url="http://www.ptc.com/schema/mvc/mvc-10.0.xsd" />
     <ignored-resource url="http://www.springframework.org/schema/beans/spring-beans-2.5.xsd" />
     <ignored-resource url="http://www.springframework.org/schema/context" />
+    <ignored-resource url="standard11_2.dtd" />
     <ignored-resource url="standard12_1.dtd" />
     <ignored-resource url="standardX20.dtd" />
   </component>
