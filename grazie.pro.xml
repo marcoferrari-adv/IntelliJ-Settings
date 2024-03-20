@@ -1,0 +1,5 @@
+<application>
+  <component name="GrazieProConfig">
+    <option name="structuralWrap" value="true" />
+  </component>
+</application>
